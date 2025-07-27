@@ -3,3 +3,4 @@ python-dotenv
 pillow
 PyMuPDF
 google-generativeai
+pdf2image
